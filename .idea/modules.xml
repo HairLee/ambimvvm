@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\Download\MVVM-with-RXJava-and-Retrofit-Users-Generated-Example--master\MVVM-Users.iml" filepath="E:\Download\MVVM-with-RXJava-and-Retrofit-Users-Generated-Example--master\MVVM-Users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVVM-with-RXJava-and-Retrofit-Users-Generated-Example--master.iml" filepath="$PROJECT_DIR$/MVVM-with-RXJava-and-Retrofit-Users-Generated-Example--master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
